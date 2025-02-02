@@ -1,0 +1,22 @@
+,Participant Age Range,Participant gender,Participant region of work,Participant industry of work,Participant  job role,Participant years of experience,Age_group_new,Q1_new,Q2_new,Q3_new,Q4_new,Q5_new,Q6_new,Q7_new,Q8_new,Q9_new,Q10_new,Q11_new,Q12_new,Q13_new,Q14_new,Q15_new,Q16_new,Q17_new,Q18_new,Q19_new,Q20_new
+0,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+1,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+2,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+3,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+4,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+5,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+6,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+7,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+8,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+9,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+10,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+11,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+12,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+13,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+14,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+15,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+16,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+17,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+18,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+19,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+20,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
