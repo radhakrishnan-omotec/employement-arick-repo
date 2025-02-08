@@ -1,0 +1,501 @@
+,Participant Age Range,Participant gender,Participant region of work,Participant industry of work,Participant  job role,Participant years of experience,Age_group_new,Q1_new,Q2_new,Q3_new,Q4_new,Q5_new,Q6_new,Q7_new,Q8_new,Q9_new,Q10_new,Q11_new,Q12_new,Q13_new,Q14_new,Q15_new,Q16_new,Q17_new,Q18_new,Q19_new,Q20_new
+0,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+1,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+2,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+3,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+4,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+5,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+6,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+7,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+8,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+9,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+10,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+11,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+12,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+13,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+14,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+15,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+16,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+17,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+18,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+19,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+20,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+21,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+22,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+23,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+24,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+25,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+26,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+27,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+28,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+29,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+30,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+31,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+32,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+33,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+34,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+35,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+36,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+37,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+38,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+39,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+40,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+41,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+42,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+43,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+44,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+45,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+46,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+47,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+48,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+49,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+50,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+51,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+52,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+53,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+54,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+55,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+56,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+57,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+58,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+59,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+60,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+61,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+62,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+63,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+64,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+65,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+66,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+67,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+68,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+69,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+70,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+71,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+72,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+73,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+74,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+75,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+76,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+77,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+78,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+79,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+80,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+81,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+82,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+83,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+84,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+85,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+86,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+87,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+88,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+89,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+90,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+91,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+92,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+93,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+94,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+95,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+96,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+97,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+98,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+99,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+100,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+101,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+102,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+103,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+104,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+105,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+106,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+107,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+108,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+109,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+110,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+111,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+112,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+113,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+114,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+115,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+116,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+117,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+118,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+119,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+120,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+121,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+122,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+123,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+124,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+125,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+126,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+127,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+128,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+129,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+130,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+131,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+132,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+133,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+134,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+135,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+136,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+137,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+138,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+139,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+140,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+141,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+142,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+143,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+144,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+145,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+146,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+147,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+148,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+149,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+150,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+151,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+152,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+153,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+154,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+155,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+156,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+157,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+158,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+159,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+160,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+161,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+162,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+163,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+164,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+165,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+166,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+167,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+168,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+169,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+170,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+171,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+172,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+173,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+174,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+175,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+176,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+177,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+178,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+179,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+180,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+181,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+182,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+183,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+184,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+185,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+186,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+187,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+188,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+189,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+190,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+191,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+192,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+193,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+194,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+195,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+196,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+197,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+198,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+199,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+200,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+201,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+202,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+203,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+204,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+205,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+206,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+207,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+208,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+209,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+210,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+211,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+212,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+213,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+214,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+215,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+216,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+217,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+218,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+219,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+220,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+221,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+222,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+223,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+224,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+225,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+226,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+227,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+228,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+229,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+230,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+231,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+232,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+233,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+234,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+235,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+236,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+237,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+238,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+239,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+240,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+241,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+242,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+243,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+244,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+245,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+246,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+247,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+248,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+249,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+250,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+251,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+252,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+253,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+254,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+255,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+256,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+257,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+258,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+259,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+260,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+261,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+262,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+263,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+264,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+265,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+266,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+267,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+268,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+269,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+270,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+271,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+272,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+273,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+274,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+275,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+276,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+277,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+278,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+279,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+280,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+281,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+282,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+283,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+284,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+285,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+286,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+287,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+288,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+289,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+290,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+291,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+292,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+293,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+294,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+295,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+296,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+297,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+298,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+299,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+300,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+301,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+302,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+303,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+304,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+305,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+306,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+307,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+308,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+309,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+310,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+311,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+312,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+313,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+314,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+315,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,5,2,0,2,0,2,2,0,0,0,3,1,2,3,2,3,3,3,0,3
+316,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+317,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+318,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+319,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+320,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+321,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+322,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+323,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+324,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+325,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+326,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+327,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+328,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+329,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+330,30 - 50,Male,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+331,30 - 50,Male,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+332,19 - 30,Male,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+333,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+334,19 - 30,Male,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+335,19 - 30,Male,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+336,19 - 30,Male,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+337,19 - 30,Male,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+338,19 - 30,Male,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+339,< 18,Male,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+340,30 - 50,Male,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+341,30 - 50,Male,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+342,19 - 30,Male,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+343,19 - 30,Male,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+344,30 - 50,Male,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+345,30 - 50,Male,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+346,> 50,Male,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+347,30 - 50,Male,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+348,19 - 30,Male,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+349,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+350,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+351,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+352,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+353,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+354,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+355,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+356,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+357,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+358,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+359,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+360,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+361,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+362,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+363,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+364,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+365,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+366,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+367,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+368,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+369,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+370,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+371,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+372,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+373,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+374,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+375,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+376,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+377,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+378,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+379,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+380,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+381,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+382,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+383,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+384,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+385,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+386,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+387,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+388,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+389,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+390,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+391,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+392,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+393,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+394,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+395,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+396,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+397,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+398,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+399,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+400,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+401,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+402,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+403,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+404,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+405,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+406,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+407,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+408,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+409,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+410,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+411,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+412,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+413,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+414,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+415,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+416,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+417,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+418,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+419,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+420,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+421,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+422,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+423,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+424,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+425,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+426,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+427,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+428,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+429,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+430,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+431,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+432,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+433,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+434,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+435,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+436,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+437,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+438,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+439,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+440,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+441,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+442,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+443,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+444,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+445,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+446,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+447,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+448,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+449,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+450,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+451,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+452,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+453,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+454,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+455,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+456,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+457,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+458,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+459,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+460,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+461,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+462,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+463,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+464,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+465,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+466,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+467,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+468,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+469,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+470,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+471,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+472,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+473,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+474,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+475,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+476,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+477,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+478,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+479,19 - 30,Female,Urban,Services,Technician,1 - 5 years,1,0,2,1,2,3,1,2,1,1,0,3,4,1,0,0,0,2,0,2,0
+480,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
+481,30 - 50,Female,Urban,Services,Manager,More than 10 years,2,1,3,0,2,0,2,2,1,2,1,2,3,2,1,1,1,0,2,0,2
+482,30 - 50,Female,Urban,Other,Other,6 - 10 years,2,1,2,0,0,0,2,2,1,0,0,3,3,2,1,1,2,2,2,0,1
+483,> 50,Female,Urban,Services,Manager,More than 10 years,3,1,1,0,2,0,2,2,1,2,1,3,3,2,1,1,1,0,2,0,2
+484,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,2,2,0,3,0,2,2,0,0,0,2,3,2,1,1,1,0,2,0,1
+485,19 - 30,Female,Urban,Services,Laborer,Less than 1 year,1,1,0,1,2,2,0,2,1,2,1,1,3,2,3,3,3,3,3,0,1
+486,30 - 50,Female,Urban,Services,Manager,1 - 5 years,2,1,1,0,2,0,2,2,2,2,1,2,0,2,2,2,1,3,1,0,3
+487,30 - 50,Female,Rural,Services,Other,More than 10 years,2,1,2,0,1,0,2,1,0,1,0,1,0,2,1,2,0,2,4,1,1
+488,30 - 50,Female,Urban,Other,Other,More than 10 years,2,2,1,0,2,0,2,0,2,2,1,3,5,2,1,1,1,1,2,0,1
+489,19 - 30,Female,Rural,Services,Other,Less than 1 year,1,2,2,0,3,0,2,3,1,2,0,0,3,0,2,0,2,2,0,3,3
+490,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,0,2,0,2,0,2,2,2,0,0,2,3,2,0,2,3,3,4,1,3
+491,19 - 30,Female,Urban,Other,Other,6 - 10 years,1,0,3,1,2,2,2,2,2,2,1,0,5,0,1,1,1,2,1,0,0
+492,19 - 30,Female,Urban,Services,Manager,1 - 5 years,1,2,2,1,2,0,2,2,0,3,0,2,3,2,1,1,1,0,2,0,2
+493,19 - 30,Female,Urban,Other,Other,Less than 1 year,1,1,1,0,2,0,2,2,1,2,1,2,2,2,2,3,1,0,3,0,1
+494,19 - 30,Female,Urban,Services,Other,1 - 5 years,1,1,1,0,2,0,2,2,2,0,1,3,4,2,1,1,1,0,2,0,2
+495,19 - 30,Female,Urban,Manufacturing,Technician,Less than 1 year,1,4,1,1,2,0,1,3,0,2,0,3,4,2,0,2,1,1,3,0,1
+496,< 18,Female,Urban,Manufacturing,Technician,1 - 5 years,0,2,1,0,0,1,1,2,2,2,1,3,4,2,3,2,3,1,1,3,4
+497,30 - 50,Female,Rural,Agriculture,Laborer,6 - 10 years,2,1,2,2,0,0,2,1,2,2,0,1,4,2,2,2,3,1,1,3,3
+498,30 - 50,Female,Urban,Services,Technician,1 - 5 years,2,4,2,1,2,3,1,2,1,1,0,1,3,0,2,2,2,3,4,3,3
+499,19 - 30,Female,Rural,Manufacturing,Technician,1 - 5 years,1,3,2,2,2,3,1,2,2,0,0,3,4,0,2,2,2,3,4,3,3
